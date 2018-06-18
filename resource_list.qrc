@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/metadata.txt</file>
+        <file>resources/species.txt</file>
+        <file>resources/data.csv</file>
+        <file>resources/states.txt</file>
+    </qresource>
+</RCC>

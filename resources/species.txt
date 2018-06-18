@@ -1,0 +1,856 @@
+Eversmann's Parnassian	Parnassius eversmanni
+Clodius Parnassian	Parnassius clodius
+Phoebus Parnassian	Parnassius phoebus
+  'Rocky Mountain' Phoebus Parnassian	Parnassius phoebus smintheus
+  'Sierra Nevada' Phoebus Parnassian	Parnassius phoebus behrii
+White-dotted Cattleheart	Parides alopius
+Pipevine Swallowtail	Battus philenor
+Polydamas Swallowtail	Battus polydamas
+Zebra Swallowtail	Eurytides marcellus
+Dark Kite-Swallowtail	Eurytides philolaus
+Red-sided Swallowtail	Mimoides phaon
+Black Swallowtail	Papilio polyxenes
+  'Desert' Black Swallowtail	Papilio polyxenes coloro
+Ozark Swallowtail	Papilio joanae
+Short-tailed Swallowtail	Papilio brevicauda
+Old World Swallowtail	Papilio machaon
+  'Baird's' Old World Swallowtail	Papilio machaon bairdii
+  'Oregon' Swallowtail	Papilio machaon oregonius
+Anise Swallowtail	Papilio zelicaon
+Indra Swallowtail	Papilio indra
+Chinese Swallowtail	Papilio xuthus
+Thoas Swallowtail	Papilio thoas
+Giant Swallowtail	Papilio cresphontes
+Schaus' Swallowtail	Papilio aristodemus
+Bahamian Swallowtail	Papilio andraemon
+Ornythion Swallowtail	Papilio ornythion
+Broad-banded Swallowtail	Papilio astyalus
+Androgeus Swallowtail	Papilio androgeus
+Eastern Tiger Swallowtail	Papilio glaucus
+Canadian Tiger Swallowtail	Papilio canadensis
+Western Tiger Swallowtail	Papilio rutulus
+Two-tailed Swallowtail	Papilio multicaudata
+Pale Swallowtail	Papilio eurymedon
+Three-tailed Swallowtail	Papilio pilumnus
+Spicebush Swallowtail	Papilio troilus
+Palamedes Swallowtail	Papilio palamedes
+Magnificent Swallowtail	Papilio garamas
+Victorine Swallowtail	Papilio victorinus
+Pink-spotted Swallowtail	Papilio pharnaces
+Ruby-spotted Swallowtail	Papilio anchisiades
+Mexican Dartwhite	Catasticta nimbice
+Pine White	Neophasia menapia
+Chiricahua White	Neophasia terlootii
+Florida White	Appias drusilla
+Becker's White	Pontia beckerii
+Spring White	Pontia sisymbrii
+Checkered White	Pontia protodice
+Western White	Pontia occidentalis
+Mustard White	Pieris napi
+  'Veined' Mustard White	Pieris napi oleracea
+  'Margined' Mustard White	Pieris napi marginalis
+West Virginia White	Pieris virginiensis
+Cabbage White	Pieris rapae
+Great Southern White	Ascia monuste
+Giant White	Ganyra josephina
+Howarth's White	Ganyra howarthii
+Painted White	Pieriballia viardi
+Common Melwhite	Melete lycimnia
+Cross-barred White	Itaballia demophile
+Large Marble	Euchloe ausonides
+Green Marble	Euchloe naina
+Northern Marble	Euchloe creusa
+Sonoran Marble	Euchloe guaymasensis
+Pearly Marble	Euchloe hyantis
+  'California' Pearly Marble	Euchloe hyantis hyantis
+  'Desert' Pearly Marble	Euchloe hyantis lotta
+Olympia Marble	Euchloe olympia
+Desert Orangetip	Anthocharis cethura
+  'Pima' Desert Orangetip	Anthocharis cethura pima
+Sara Orangetip	Anthocharis sara (includes thoosa and julia)
+  'Pacific' Sara Orangetip	Anthocharis sara sara
+  'Stella' Sara Orangetip	Anthocharis sara stella
+Falcate Orangetip	Anthocharis midea
+Gray Marble	Anthocharis lanceolata
+Clouded Sulphur	Colias philodice
+Orange Sulphur	Colias eurytheme
+Western Sulphur	Colias occidentalis
+Colias occidentalis chrysomelas
+Colias occidentalis pseudochristina
+Christina's Sulphur	Colias christina
+Queen Alexandra's Sulphur	Colias alexandra
+  'Harford's' Queen Alexandra's Sulphur	Colias alexandra harfordii
+Colias alexandra krauthii
+Mead's Sulphur	Colias meadii
+Coppermine Sulphur	Colias johanseni
+Canadian Sulphur	Colias canadensis
+Hecla Sulphur	Colias hecla
+[Booth's Sulphur	"Colias boothi" hecla x nastes?*]
+Labrador Sulphur	Colias nastes
+Colias nastes thula
+Scudder's Sulphur	Colias scudderi
+Giant Sulphur	Colias gigantea
+Sierra Sulphur	Colias behrii
+Pelidne Sulphur	Colias pelidne
+Pink-edged Sulphur	Colias interior
+Palaeno Sulphur	Colias palaeno
+California Dogface	Colias eurydice
+Southern Dogface	Colias cesonia
+White Angled-Sulphur	Anteos clorinde
+Yellow Angled-Sulphur	Anteos maerula
+Cloudless Sulphur	Phoebis sennae
+Orange-barred Sulphur	Phoebis philea
+Large Orange Sulphur	Phoebis agarithe
+Tailed Sulphur	Phoebis neocypris
+Statira Sulphur	Phoebis statira
+Pink-spot Sulphur	Phoebis neleis
+Orbed Sulphur	Phoebis orbis
+Lyside Sulphur	Kricogonia lyside
+Barred Yellow	Eurema daira
+Ghost Yellow	Eurema albula
+Boisduval's Yellow	Eurema boisduvaliana
+Mexican Yellow	Eurema mexicana
+Salome Yellow	Eurema salome
+Tailed Orange	Eurema proterpia
+Little Yellow	Eurema lisa
+Mimosa Yellow	Eurema nise
+Shy Yellow	Eurema messalina
+Dina Yellow	Eurema dina
+Sleepy Orange	Eurema nicippe
+Dainty Sulphur	Nathalis iole
+Costa-spotted Mimic-White	Enantia albania
+Harvester	Feniseca tarquinius
+Tailed Copper	Lycaena arota
+American Copper	Lycaena phlaeas
+Lustrous Copper	Lycaena cupreus
+  'Snow's' Lustrous Copper	Lycaena cupreus snowi
+Great Copper	Lycaena xanthoides
+Gray Copper	Lycaena dione
+Edith's Copper	Lycaena editha
+Gorgon Copper	Lycaena gorgon
+Bronze Copper	Lycaena hyllus
+Ruddy Copper	Lycaena rubidus
+  'White Mountains' Ruddy Copper	Lycaena rubidus ferrisi
+Blue Copper	Lycaena heteronea
+Bog Copper	Lycaena epixanthe
+Dorcas Copper	Lycaena dorcas
+ 'Maine' Dorcas Copper	Lycaena dorcas claytoni
+ 'Salt Marsh' Dorcas Copper	Lycaena dorcas dospassosi
+Purplish Copper	Lycaena helloides
+Lilac-bordered Copper	Lycaena nivalis
+Mariposa Copper	Lycaena mariposa
+Hermes Copper	Lycaena hermes
+Colorado Hairstreak	Hypaurotis crysalus
+Golden Hairstreak	Habrodais grunus
+Atala	Eumaeus atala
+Strophius Hairstreak	Allosmaitia strophius
+Great Purple Hairstreak	Atlides halesus
+Creamy Stripe-streak	Arawacus jada
+Smudged Hairstreak	Rekoa stagira
+Gold-bordered Hairstreak	Rekoa palegon
+Marius Hairstreak	Rekoa marius
+Black Hairstreak	Ocaria ocrisia
+Amethyst Hairstreak	Chlorostrymon maesites
+Telea Hairstreak	Chlorostrymon telea
+Silver-banded Hairstreak	Chlorostrymon simaethis
+Soapberry Hairstreak	Phaeostrymon alcestis
+Coral Hairstreak	Satyrium titus
+Behr's Hairstreak	Satyrium behrii
+Sooty Hairstreak	Satyrium fuliginosa
+Acadian Hairstreak	Satyrium acadica
+California Hairstreak	Satyrium californica
+Sylvan Hairstreak	Satyrium sylvinus
+Edwards' Hairstreak	Satyrium edwardsii
+Banded Hairstreak	Satyrium calanus
+Hickory Hairstreak	Satyrium caryaevorum
+King's Hairstreak	Satyrium kingi
+Striped Hairstreak	Satyrium liparops
+Gold-hunter's Hairstreak	Satyrium auretorum
+Mountain Mahogany Hairstreak	Satyrium tetra
+Hedgerow Hairstreak	Satyrium saepium
+Oak Hairstreak	Satyrium favonius
+ 'Southern' Oak Hairstreak	Satyrium favonius favonius
+ 'Northern' Oak Hairstreak	Satyrium favonius ontario
+Ilavia Hairstreak	Satyrium ilavia
+Poling's Hairstreak	Satyrium polingi
+Clench's Greenstreak	Cyanophrys miserabilis
+Goodson's Greenstreak	Cyanophrys goodsoni
+Tropical Greenstreak	Cyanophrys herodotus
+Bramble Hairstreak	Callophrys dumetorum
+  'Coastal' Bramble Hairstreak	Callophrys dumetorum viridis
+  'Canyon' Bramble Hairstreak	Callophrys dumetorum apama
+  'Immaculate' Bramble Hairstreak	Callophrys dumetorum affinis
+Sheridan's Hairstreak	Callophrys sheridanii
+  'Desert' Sheridan's Hairstreak	Callophrys sheridanii comstocki
+  'Alpine' Sheridan's Hairstreak	Callophrys sheridanii lemberti
+Xami Hairstreak	Callophrys xami
+Sandia Hairstreak	Callophrys mcfarlandi
+Brown Elfin	Callophrys augustinus
+Desert Elfin	Callophrys fotis
+Moss' Elfin	Callophrys mossii
+Hoary Elfin	Callophrys polios
+Frosted Elfin	Callophrys irus
+Henry's Elfin	Callophrys henrici
+Bog Elfin	Callophrys lanoraieensis
+Eastern Pine Elfin	Callophrys niphon
+Western Pine Elfin	Callophrys eryphon
+Thicket Hairstreak	Callophrys spinetorum
+Johnson's Hairstreak	Callophrys johnsoni
+Juniper Hairstreak	Callophrys gryneus
+  'Olive' Juniper Hairstreak	Callophrys gryneus gryneus
+  'Sweadner's' Juniper Hairstreak	Callophrys gryneus sweadneri
+  'Siva' Juniper Hairstreak	Callophrys gryneus siva
+  'Nelson's' Juniper Hairstreak	Callophrys gryneus nelsoni
+  'Muir's' Juniper Hairstreak	Callophrys gryneus muiri
+  'Loki' Juniper Hairstreak	Callophrys gryneus loki
+  'Thorne's' Juniper Hairstreak	Callophrys gryneus thornei
+Hessel's Hairstreak	Callophrys hesseli
+Aquamarine Hairstreak	Oenomaus ortygnus
+White M Hairstreak	Parrhasius m-album
+Gray Hairstreak	Strymon melinus
+Avalon Scrub-Hairstreak	Strymon avalona
+Red-crescent Scrub-Hairstreak	Strymon rufofusca
+Red-lined Scrub-Hairstreak	Strymon bebrycia
+Martial Scrub-Hairstreak	Strymon martialis
+Yojoa Scrub-Hairstreak	Strymon yojoa
+White Scrub-Hairstreak	Strymon albata
+Bartram's Scrub-Hairstreak	Strymon acis
+Lacey's Scrub-Hairstreak	Strymon alea
+Mallow Scrub-Hairstreak	Strymon istapa
+Disguised Scrub-Hairstreak	Strymon limenia
+Tailless Scrub-Hairstreak	Strymon cestri
+Lantana Scrub-Hairstreak	Strymon bazochii
+Bromeliad Scrub-Hairstreak	Strymon serapio
+Ruddy Hairstreak	Electrostrymon sangala
+Fulvous Hairstreak	Electrostrymon angelia
+Muted Hairstreak	Electrostrymon canus
+Orange-crescent Groundstreak	Electrostrymon guzanta
+Confused Groundstreak	Kisutam syllis
+Red-banded Hairstreak	Calycopis cecrops
+Dusky-blue Groundstreak	Calycopis isobeon
+Red-spotted Hairstreak	Tmolus echion
+Pearly-gray Hairstreak	Siderus tephraeus
+Leda Ministreak	Ministrymon leda
+Clytie Ministreak	Ministrymon clytie
+Gray Ministreak	Ministrymon azia
+Zebra Cross-streak	Panthiades bathildis
+Shadowed Hairstreak	Michaelus ira
+Sonoran Hairstreak	Hypostrymon critola
+Early Hairstreak	Erora laeta
+Arizona Hairstreak	Erora quaderna
+Western Pygmy-Blue	Brephidium exile
+Eastern Pygmy-Blue	Brephidium isophthalma
+Lesser Grass-Blue	Zizina otis
+Cassius Blue	Leptotes cassius
+Marine Blue	Leptotes marina
+Pea Blue	Lampides boeticus
+Cyna Blue	Zizula cyna
+Miami Blue	Hemiargus thomasi
+Nickerbean Blue	Hemiargus ammon
+Ceraunus Blue	Hemiargus ceraunus
+Reakirt's Blue	Hemiargus isola
+Eastern Tailed-Blue	Everes comyntas
+Western Tailed-Blue	Everes amyntula
+Spring Azure	Celastrina ladon
+  'Atlantic' Spring Azure	Celastrina ladon idella
+  'Hops' Spring Azure	Celastrina ladon humulus
+  'Manitoba' Spring Azure	Celastrina ladon argentata
+  'Summer' Spring Azure	Celastrina ladon neglecta
+Appalachian Azure	Celastrina neglectamajor
+Dusky Azure	Celastrina nigra (=ebinina)
+Hawaiian Blue	Vaga blackburni
+Sonoran Blue	Philotes sonorensis
+Square-spotted Blue	Euphilotes battoides
+ 'El Segundo' Square-spotted Blue	Euphilotes battoides allyni
+ 'Bernardino' Square-spotted Blue	Euphilotes battoides bernardino
+Euphilotes battoides intermedia
+Euphilotes battoides baueri
+Euphilotes battoides centralis
+Euphilotes battoides ellisi
+Dotted Blue	Euphilotes enoptes
+  'Mojave' Dotted Blue	Euphilotes enoptes mojave
+  'Dammer's ' Dotted Blue	Euphilotes enoptes dammersi
+Euphilotes enoptes ancilla
+Rita Blue	Euphilotes rita
+ 'Pale' Rita Blue	Euphilotes rita pallescens
+Spalding's Blue	Euphilotes spaldingi
+Small Blue	Philotiella speciosa
+Philotiella speciosa leona
+Arrowhead Blue	Glaucopsyche piasus
+Silvery Blue	Glaucopsyche lygdamus
+Northern Blue	Lycaeides idas
+Melissa Blue	Lycaeides melissa
+ 'Karner' Melissa Blue	Lycaeides melissa samuelis
+Greenish Blue	Plebejus saepiolus
+San Emigdio Blue	Plebejus emigdionis
+Boisduval's Blue	Plebejus icarioides
+ 'Mission' Boisduval's Blue	Plebejus icarioides missionensis
+Shasta Blue	Plebejus shasta
+Acmon Blue	Plebejus acmon (includes texana and lutzi)
+Lupine Blue	Plebejus lupini
+Veined Blue	Plebejus neurona
+Cranberry Blue	Vacciniina optilete
+Arctic Blue	Agriades glandon
+  'Sierra' Arctic Blue	Agriades glandon podarce
+Heather Blue	Agriades cassiope
+Common Blue	Polyommatus icarus
+Little Metalmark	Calephelis virginiensis
+Northern Metalmark	Calephelis borealis
+Fatal Metalmark	Calephelis nemesis
+Rounded Metalmark	Calephelis perditalis
+Wright's Metalmark	Calephelis wrighti
+Swamp Metalmark	Calephelis mutica
+Rawson's Metalmark	Calephelis rawsoni
+  'Freeman's' Rawson's Metalmark	Calephelis rawsoni freemani
+Arizona Metalmark	Calephelis arizonensis
+Red-bordered Metalmark	Caria ino
+Square-spotted Yellowmark	Baeotis zonata
+Blue Metalmark	Lasaia sula
+Red-bordered Pixie	Melanis pixe
+Zela Metalmark	Emesis zela
+Ares Metalmark	Emesis ares
+Curve-winged Metalmark	Emesis emesia
+Falcate Metalmark	Emesis tenedia
+Mormon Metalmark	Apodemia mormo
+Apodemia mormo virgulti
+Apodemia mormo mejicanus
+Apodemia mormo duryi
+Narrow-winged Metalmark	Apodemia multiplaga
+Hepburn's Metalmark	Apodemia hepburni
+Palmer's Metalmark	Apodemia palmeri
+Walker's Metalmark	Apodemia walkeri
+Crescent Metalmark	Apodemia phyciodoides
+Nais Metalmark	Apodemia nais
+  'Chisos' Nais Metalmark	Apodemia nais chisosensis
+American Snout	Libytheana carinenta
+Gulf Fritillary	Agraulis vanillae
+Mexican Silverspot	Dione moneta
+Juno Heliconian	Dione juno
+Banded Orange Heliconian	Dryadula phaetusa
+Julia Heliconian	Dryas iulia
+Isabella's Heliconian	Eueides isabella
+Zebra Heliconian	Heliconius charithonia
+Erato Heliconian	Heliconius erato
+Variegated Fritillary	Euptoieta claudia
+Mexican Fritillary	Euptoieta hegesia
+Diana Fritillary	Speyeria diana 
+Great Spangled Fritillary	Speyeria cybele
+Speyeria cybele leto
+Aphrodite Fritillary	Speyeria aphrodite
+Regal Fritillary	Speyeria idalia
+Nokomis Fritillary	Speyeria nokomis
+Edwards' Fritillary	Speyeria edwardsii
+Coronis Fritillary	Speyeria coronis
+Zerene Fritillary	Speyeria zerene
+  'Spring Mountains' Zerene Fritillary	Speyeria zerene carolae
+Callippe Fritillary	Speyeria callippe
+Speyeria callippe nevadensis
+Great Basin Fritillary	Speyeria egleis
+Unsilvered Fritillary	Speyeria adiaste
+Atlantis Fritillary	Speyeria atlantis
+  'Atlantis' Atlantis Fritillary	Speyeria atlantis atlantis
+  'Hesperis' Atlantis Fritillary	Speyeria atlantis hesperis
+  'Southwestern' Atlantis Fritillary	Speyeria atlantis nausicaa
+Hydaspe Fritillary	Speyeria hydaspe
+Mormon Fritillary	Speyeria mormonia
+Speyeria mormonia atronia
+Speyeria mormonia luski
+Mountain Fritillary	Boloria napaea
+Bog Fritillary	Boloria eunomia
+Silver-bordered Fritillary	Boloria selene
+Meadow Fritillary	Boloria bellona
+Frigga Fritillary	Boloria frigga
+Dingy Fritillary	Boloria improba
+  'Wind River' Dingy Fritillary	Boloria improba harryi
+  'Uncompahgre' Dingy Fritillary	Boloria improba acrocnema
+Relict Fritillary	Boloria kriemhild
+Pacific Fritillary	Boloria epithore
+Polaris Fritillary	Boloria polaris
+Freija Fritillary	Boloria freija
+Alberta Fritillary	Boloria alberta
+Astarte Fritillary	Boloria astarte
+  'Distinct' Astarte Fritillary	Boloria astarte distincta
+Purplish Fritillary	Boloria montinus (distinct from Old World titania)
+Arctic Fritillary	Boloria chariclea
+Cryptic Fritillary	Boloria natazhati
+Dotted Checkerspot	Poladryas minuta
+Arachne Checkerspot	Poladryas arachne
+Theona Checkerspot	Chlosyne theona
+Chinati Checkerspot	Chlosyne chinatiensis
+Black Checkerspot	Chlosyne cyneas
+Fulvia Checkerspot	Chlosyne fulvia
+Leanira Checkerspot	Chlosyne leanira
+California Patch	Chlosyne californica
+Bordered Patch	Chlosyne lacinia
+Definite Patch	Chlosyne definita
+Banded Patch	Chlosyne endeis
+Crimson Patch	Chlosyne janais
+Rosita Patch	Chlosyne rosita
+Red-spotted Patch	Chlosyne marina
+Gorgone Checkerspot	Chlosyne gorgone
+Silvery Checkerspot	Chlosyne nycteis
+Harris' Checkerspot	Chlosyne harrisii
+Northern Checkerspot	Chlosyne palla
+Rockslide Checkerspot	Chlosyne whitneyi
+Sagebrush Checkerspot	Chlosyne acastus
+Gabb's Checkerspot	Chlosyne gabbii
+Hoffmann's Checkerspot	Chlosyne hoffmanni
+Elf	Microtia elva
+Tiny Checkerspot	Dymasia dymas
+Dymasia dymas chara
+Elada Checkerspot	Texola elada
+Texan Crescent	Phyciodes texana
+  'Seminole' Texan Crescent	Phyciodes texana seminole
+Cuban Crescent	Phyciodes frisia
+Pale-banded Crescent	Phyciodes tulcis
+Black Crescent	Phyciodes ptolyca
+Chestnut Crescent	Phyciodes argentea
+Vesta Crescent	Phyciodes vesta
+Phaon Crescent	Phyciodes phaon
+Pearl Crescent	Phyciodes tharos
+Northern Crescent	Phyciodes selenis
+Tawny Crescent	Phyciodes batesii
+Field Crescent	Phyciodes campestris
+Painted Crescent	Phyciodes picta
+California Crescent	Phyciodes orseis
+Pale Crescent	Phyciodes pallida
+Mylitta Crescent	Phyciodes mylitta
+Gillett's Checkerspot	Euphydryas gillettii
+Variable Checkerspot	Euphydryas chalcedona
+  'Chalcedon' Variable Checkerspot	Euphydryas chalcedona chalcedona
+  'Snowberry' Variable Checkerspot	Euphydryas chalcedona colon
+  'Anicia' Variable Checkerspot	Euphydryas chalcedona anicia
+Edith's Checkerspot	Euphydryas editha
+Baltimore Checkerspot	Euphydryas phaeton 
+Question Mark	Polygonia interrogationis
+Eastern Comma	Polygonia comma
+Satyr Comma	Polygonia satyrus
+Green Comma	Polygonia faunus
+Polygonia faunus hylas
+Polygonia faunus silvius
+Hoary Comma	Polygonia gracilis
+ 'Zephyr' Hoary Comma	Polygonia gracilis zephyrus
+Oreas Comma	Polygonia oreas
+Gray Comma	Polygonia progne
+Spotless Comma	Polygonia haroldii
+Compton Tortoiseshell	Nymphalis vaualbum
+California Tortoiseshell	Nymphalis californica
+Mourning Cloak	Nymphalis antiopa
+Milbert's Tortoiseshell	Nymphalis milberti
+Small Tortoiseshell	Nymphalis urticae
+American Lady	Vanessa virginiensis
+Painted Lady	Vanessa cardui
+West Coast Lady	Vanessa annabella
+Kamehameha Lady	Vanessa tameneamea
+Red Admiral	Vanessa atalanta
+Orange Mapwing	Hypanartia lethe
+Mimic	Hypolimnas misippus
+Common Buckeye	Junonia coenia
+Mangrove Buckeye	Junonia evarete
+Tropical Buckeye	Junonia genoveva
+White Peacock	Anartia jatrophae
+Cuban Peacock	Anartia chrysopelea
+Banded Peacock	Anartia fatima
+Malachite	Siproeta stelenes
+Rusty-tipped Page	Siproeta epaphus
+Red-spotted Admiral	Limenitis arthemis
+  White Admiral	Limenitis arthemis arthemis
+  Red-spotted Purple	Limenitis arthemis astyanax
+Viceroy	Limenitis archippus
+Weidemeyer's Admiral	Limenitis weidemeyerii
+Lorquin's Admiral	Limenitis lorquini
+Band-celled Sister	Adelpha fessonia
+California Sister	Adelpha bredowii
+Spot-celled Sister	Adelpha basiloides
+Common Banner	Epiphile adrasta
+Orange Banner	Temenis laothoe
+Mexican Bluewing	Myscelia ethusa
+Blackened Bluewing	Myscelia cyananthe
+Dingy Purplewing	Eunica monima
+Florida Purplewing	Eunica tatila
+Blue-eyed Sailor	Dynamine dyonis
+Four-spotted Sailor	Dynamine postverta
+Common Mestra	Mestra amymone
+Red Rim	Biblis hyperia
+Red Cracker	Hamadryas amphinome
+Gray Cracker	Hamadryas februa
+Variable Cracker	Hamadryas feronia
+Glaucous Cracker	Hamadryas glauconome
+Pale Cracker	Hamadryas amphichloe
+Guatemalan Cracker	Hamadryas guatemalena
+Black-patched Cracker	Hamadryas atlantis
+Orion Cecropian	Historis odius
+Tailed Cecropian	Historis acheronta
+Blomfild's Beauty	Smyrna blomfildia
+Karwinski's Beauty	Smyrna karwinskii
+Waiter Daggerwing	Marpesia coresia
+Many-banded Daggerwing	Marpesia chiron
+Ruddy Daggerwing	Marpesia petreus
+Antillean Daggerwing	Marpesia eleuchea
+One-spotted Prepona	Archaeoprepona demophon
+Tropical Leafwing	Anaea aidea
+Florida Leafwing	Anaea floridalis
+Goatweed Leafwing	Anaea andria
+Angled Leafwing	Anaea glycerium
+Guatemalan Leafwing	Anaea forreri
+Pale-spotted Leafwing	Anaea pithyusa
+Hackberry Emperor	Asterocampa celtis
+Empress Leilia	Asterocampa leilia
+Tawny Emperor	Asterocampa clyton
+'Cream-banded' Dusky Emperor	Asterocampa idyja argus
+Pavon Emperor	Doxocopa pavon
+Silver Emperor	Doxocopa laure
+White Morpho	Morpho polyphemus
+White-spotted Satyr	Manataria hercyna
+Southern Pearly-eye	Enodia portlandia
+Northern Pearly-eye	Enodia anthedon
+Creole Pearly-eye	Enodia creola
+Eyed Brown	Satyrodes eurydice
+Appalachian Brown	Satyrodes appalachia
+Nabokov's Satyr	Cyllopsis pyracmon
+Canyonland Satyr	Cyllopsis pertepida
+Gemmed Satyr	Cyllopsis gemma
+Carolina Satyr	Hermeuptychia sosybius
+Georgia Satyr	Neonympha areolata
+Mitchell's Satyr	Neonympha mitchellii
+Little Wood-Satyr	Megisto cymela (includes viola)
+Red Satyr	Megisto rubricata
+Pine Satyr	Paramacera allyni
+Hayden's Ringlet	Coenonympha haydenii
+Common Ringlet	Coenonympha tullia
+  'Inornate' Common Ringlet	Coenonympha tullia inornata
+  'Salt Marsh' Common Ringlet	Coenonympha tullia nipisiquit
+  'Ochre' Common Ringlet	Coenonympha tullia ochracea
+  'California' Common Ringlet	Coenonympha tullia california
+Common Wood-Nymph	Cercyonis pegala
+Mead's Wood-Nymph	Cercyonis meadii
+Great Basin Wood-Nymph	Cercyonis sthenele
+Small Wood-Nymph	Cercyonis oetus
+Vidler's Alpine	Erebia vidleri
+Ross' Alpine	Erebia rossii
+Disa Alpine	Erebia disa
+Taiga Alpine	Erebia mancinus
+Magdalena Alpine	Erebia magdalena
+Banded Alpine	Erebia fasciata
+Red-disked Alpine	Erebia discoidalis
+Theano Alpine	Erebia theano
+Four-dotted Alpine	Erebia dabanensis (includes youngi)
+Common Alpine	Erebia epipsodea
+Colorado Alpine	Erebia callias
+Reddish Alpine	Erebia kozhantshikovi (includes lafontainei)
+Eskimo Alpine	Erebia occulta
+Red-bordered Satyr	Gyrocheilus patrobas
+Ridings' Satyr	Neominois ridingsii
+Great Arctic	Oeneis nevadensis
+Macoun's Arctic	Oeneis macounii
+Chryxus Arctic	Oeneis chryxus
+  'California' Chryxus Arctic	Oeneis chryxus ivallda
+Uhler's Arctic	Oeneis uhleri
+Alberta Arctic	Oeneis alberta
+White-veined Arctic	Oeneis taygete (distinct from Old World Oeneis bore)
+Jutta Arctic	Oeneis jutta
+Sentinel Arctic	Oeneis alpina (includes exubitor)
+Melissa Arctic	Oeneis melissa
+Polixenes Arctic	Oeneis polixenes
+Early Arctic	Oeneis rosovi (includes philipi)
+Heliconoid Ticlear	Melinaea lilis
+Klug's Clearwing	Dircenna klugii
+Broad-tipped Clearwing	Pteronymia cotytto
+Thick-tipped Greta	Greta morgane
+Monarch	Danaus plexippus
+Queen	Danaus gilippus
+Soldier	Danaus eresimus
+Tiger Mimic-Queen	Lycorea cleobaea
+Dull Firetip	Pyrrhopyge araxes
+Mangrove Skipper	Phocides pigmalion
+Guava Skipper	Phocides polybius
+Big-spotted Skipper	Phocides belus
+Mercurial Skipper	Proteides mercurius
+Zestos Skipper	Epargyreus zestos
+Silver-spotted Skipper	Epargyreus clarus
+Broken Silverdrop	Epargyreus exadeus
+Hammock Skipper	Polygonus leo
+Manuel's Skipper	Polygonus manueli
+White-striped Longtail	Chioides catillus
+Zilpa Longtail	Chioides zilpa
+Gold-spotted Aguna	Aguna asander
+Emerald Aguna	Aguna claxon
+Tailed Aguna	Aguna metophis
+Mottled Longtail	Typhedanus undulatus
+Mexican Longtail	Polythrix mexicanus
+Eight-spotted Longtail	Polythrix octomaculata
+Short-tailed Skipper	Zestusa dorus
+White-crescent Longtail	Codatractus alcaeus
+Arizona Skipper	Codatractus arizonensis
+Valeriana Skipper	Codatractus mysie
+Long-tailed Skipper	Urbanus proteus
+Cobalt Longtail	Urbanus viterboana
+Esmeralda Longtail	Urbanus esmeraldus
+Interrupted Longtail	Urbanus pronta
+Turquoise Longtail	Urbanus evona
+Dorantes Longtail	Urbanus dorantes
+Teleus Longtail	Urbanus teleus
+Tanna Longtail	Urbanus tanna
+Plain Longtail	Urbanus simplicius
+Brown Longtail	Urbanus procne
+White-tailed Longtail	Urbanus doryssus
+Green Flasher	Astraptes talus
+Two-barred Flasher	Astraptes fulgerator
+Small-spotted Flasher	Astraptes egregius
+Frosted Flasher	Astraptes alardus
+Gilbert's Flasher	Astraptes gilberti
+Yellow-tipped Flasher	Astraptes anaphus
+Golden Banded-Skipper	Autochton cellus
+Sonoran Banded-Skipper	Autochton pseudocellus
+Chisos Banded-Skipper	Autochton cincta
+Hoary Edge	Achalarus lyciades
+Desert Cloudywing	Achalarus casica
+Dark Cloudywing	Achalarus tehuacana
+Skinner's Cloudywing	Achalarus albociliatus
+Coyote Cloudywing	Achalarus toxeus
+Jalapus Cloudywing	Achalarus jalapus
+Southern Cloudywing	Thorybes bathyllus
+Northern Cloudywing	Thorybes pylades
+Western Cloudywing	Thorybes diversus
+Mexican Cloudywing	Thorybes mexicanus
+Confused Cloudywing	Thorybes confusis
+Drusius Cloudywing	Thorybes drusius
+Potrillo Skipper	Cabares potrillo
+Fritzgaertner's Flat	Celaenorrhinus fritzgaertneri
+Stallings' Flat	Celaenorrhinus stallingsi
+Falcate Skipper	Spathilepia clonius
+Mimosa Skipper	Cogia calchas
+Acacia Skipper	Cogia hippalus
+Outis Skipper	Cogia outis
+Gold-costa Skipper	Cogia caicus
+Starred Skipper	Arteurotia tractipennis
+Purplish-black Skipper	Nisoniades rubescens
+Glazed Pellicia	Pellicia arina
+Morning Glory Pellicia	Pellicia dimidiata
+Mottled Bolla	Bolla clytius
+Obscure Bolla	Bolla brennus
+Golden-headed Scallopwing	Staphylus ceos
+Mazans Scallopwing	Staphylus mazans
+Hayhurst's Scallopwing	Staphylus hayhurstii
+Variegated Skipper	Gorgythion begga
+Blue-studded Skipper	Sostrata bifasciata
+Pale Mylon	Mylon pelopidas
+Hoary Skipper	Carrhenes canescens
+Glassy-winged Skipper	Xenophanes tryxus
+Dusted Spurwing	Antigonus erosus
+White Spurwing	Antigonus emorsus
+Red-studded Skipper	Noctuana stator
+Texas Powdered-Skipper	Systasea pulverulenta
+Arizona Powdered-Skipper	Systasea zampa
+Sickle-winged Skipper	Achlyodes thraso
+Pale Sicklewing	Achlyodes pallida
+Hermit Skipper	Grais stigmatica
+Brown-banded Skipper	Timochares ruptifasciatus
+Common Bluevent	Anastrus sempiternus
+White-patched Skipper	Chiomara asychis
+Slaty Skipper	Chiomara mithrax
+False Duskywing	Gesta gesta
+Florida Duskywing	Ephyriades brunneus
+Dreamy Duskywing	Erynnis icelus
+Sleepy Duskywing	Erynnis brizo
+Juvenal's Duskywing	Erynnis juvenalis
+ 'Arizona' Juvenal's Duskywing	Erynnis juvenalis clitus
+Rocky Mountain Duskywing	Erynnis telemachus
+Propertius Duskywing	Erynnis propertius
+Meridian Duskywing	Erynnis meridianus
+Scudder's Duskywing	Erynnis scudderi
+Horace's Duskywing	Erynnis horatius
+Mournful Duskywing	Erynnis tristis
+Mottled Duskywing	Erynnis martialis
+Pacuvius Duskywing	Erynnis pacuvius
+Zarucco Duskywing	Erynnis zarucco
+Funereal Duskywing	Erynnis funeralis
+Columbine Duskywing	Erynnis lucilius
+Wild Indigo Duskywing	Erynnis baptisiae
+Afranius Duskywing	Erynnis afranius
+Persius Duskywing	Erynnis persius
+Grizzled Skipper	Pyrgus centaureae
+  'Appalachian' Grizzled Skipper	Pyrgus centaureae wyandot
+Two-banded Checkered-Skipper	Pyrgus ruralis
+Mountain Checkered-Skipper	Pyrgus xanthus
+Small Checkered-Skipper	Pyrgus scriptura
+Common Checkered-Skipper	Pyrgus communis
+White Checkered-Skipper	Pyrgus albescens
+Tropical Checkered-Skipper	Pyrgus oileus
+Desert Checkered-Skipper	Pyrgus philetas
+Erichson's White-Skipper	Heliopetes domicella
+Northern White-Skipper	Heliopetes ericetorum
+Laviana White-Skipper	Heliopetes laviana
+Turk's-cap White-Skipper	Heliopetes macaira
+East-Mexican White-Skipper	Heliopetes sublinea
+Veined White-Skipper	Heliopetes arsalte
+Common Streaky-Skipper	Celotes nessus
+Scarce Streaky-Skipper	Celotes limpia
+Common Sootywing	Pholisora catullus
+Mexican Sootywing	Pholisora mejicana
+Mojave Sootywing	Hesperopsis libya
+Saltbush Sootywing	Hesperopsis alpheus
+  'MacNeill's' Saltbush Sootywing	Hesperopsis alpheus gracielae
+Arctic Skipper	Carterocephalus palaemon
+Russet Skipperling	Piruna pirus
+Four-spotted Skipperling	Piruna polingi
+Many-spotted Skipperling	Piruna cingo
+Small-spotted Skipperling	Piruna microstictus
+Chisos Skipperling	Piruna haferniki
+Banana Skipper	Erionota thrax
+Malicious Skipper	Synapte malitiosa
+Salenus Skipper	Synapte salenus
+Faceted Skipper	Synapte syraces
+Redundant Skipper	Corticea corticea
+Pale-rayed Skipper	Vidius perigenes
+Violet-patched Skipper	Monca tyrtaeus
+Swarthy Skipper	Nastra lherminier
+Julia's Skipper	Nastra julia
+Neamathla Skipper	Nastra neamathla
+Three-spotted Skipper	Cymaenes tripunctus
+Fawn-spotted Skipper	Cymaenes odilia
+Greenish Brown-Skipper	Mnasilus allubita
+Clouded Skipper	Lerema accius
+Liris Skipper	Lerema liris
+Fantastic Skipper	Vettius fantasos
+Green-backed Ruby-eye	Perichares philetes
+Osca Skipper	Rhinthon osca
+Double-dotted Skipper	Decinea percosius
+Hidden-ray Skipper	Conga chydaea
+Least Skipper	Ancyloxypha numitor
+Tropical Least Skipper	Ancyloxypha arene
+Poweshiek Skipperling	Oarisma poweshiek
+Garita Skipperling	Oarisma garita
+Edwards' Skipperling	Oarisma edwardsii
+Orange Skipperling	Copaeodes aurantiacus
+Southern Skipperling	Copaeodes minimus
+Sunrise Skipper	Adopaeoides prittwitzi
+European Skipper	Thymelicus lineola
+Fiery Skipper	Hylephila phyleus
+Alkali Skipper	Pseudocopaeodes eunus
+Morrison's Skipper	Stinga morrisoni
+Uncas Skipper	Hesperia uncas
+Juba Skipper	Hesperia juba
+Common Branded Skipper	Hesperia comma
+Hesperia comma colorado
+Hesperia comma assiniboia
+Apache Skipper	Hesperia woodgatei
+Ottoe Skipper	Hesperia ottoe
+Leonard's Skipper	Hesperia leonardus
+Pahaska Skipper	Hesperia pahaska
+Columbian Skipper	Hesperia columbia
+Cobweb Skipper	Hesperia metea
+Green Skipper	Hesperia viridis
+Dotted Skipper	Hesperia attalus
+Meske's Skipper	Hesperia meskei
+Dakota Skipper	Hesperia dacotae
+Lindsey's Skipper	Hesperia lindseyi
+Indian Skipper	Hesperia sassacus
+Sierra Skipper	Hesperia miriamae
+Nevada Skipper	Hesperia nevada
+Rhesus Skipper	Polites rhesus
+Carus Skipper	Polites carus
+Peck's Skipper	Polites peckius
+Sandhill Skipper	Polites sabuleti
+Mardon Skipper	Polites mardon
+Draco Skipper	Polites draco
+Baracoa Skipper	Polites baracoa
+Tawny-edged Skipper	Polites themistocles
+Crossline Skipper	Polites origenes
+Long Dash	Polites mystic
+Sonoran Skipper	Polites sonora
+Whirlabout	Polites vibex
+Southern Broken-Dash	Wallengrenia otho
+Northern Broken-Dash	Wallengrenia egeremet
+Little Glassywing	Pompeius verna
+Sachem	Atalopedes campestris
+Arogos Skipper	Atrytone arogos
+Delaware Skipper	Anatrytone logan
+Glowing Skipper	Anatrytone mazai
+Byssus Skipper	Problema byssus
+Rare Skipper	Problema bulenta
+Woodland Skipper	Ochlodes sylvanoides
+Rural Skipper	Ochlodes agricola
+Yuma Skipper	Ochlodes yuma
+Snow's Skipper	Paratrytone snowi
+Mulberry Wing	Poanes massasoit
+Hobomok Skipper	Poanes hobomok
+Zabulon Skipper	Poanes zabulon
+Taxiles Skipper	Poanes taxiles
+Aaron's Skipper	Poanes aaroni
+Yehl Skipper	Poanes yehl
+Broad-winged Skipper	Poanes viator
+Umber Skipper	Poanes melane
+Common Mellana	Quasimellana eulogius
+Palmetto Skipper	Euphyes arpa
+Palatka Skipper	Euphyes pilatka
+Dion Skipper	Euphyes dion
+Bay Skipper	Euphyes bayensis
+Dukes' Skipper	Euphyes dukesi
+Black Dash	Euphyes conspicua
+Berry's Skipper	Euphyes berryi
+Two-spotted Skipper	Euphyes bimacula
+Dun Skipper	Euphyes vestris
+Monk Skipper	Asbolis capucinus
+Dusted Skipper	Atrytonopsis hianna
+Atrytonopsis hianna loammi
+Deva Skipper	Atrytonopsis deva
+Moon-marked Skipper	Atrytonopsis lunus
+Viereck's Skipper	Atrytonopsis vierecki
+White-barred Skipper	Atrytonopsis pittacus
+Python Skipper	Atrytonopsis python
+Cestus Skipper	Atrytonopsis cestus
+Sheep Skipper	Atrytonopsis edwardsii
+Simius Skipper	Notamblyscirtes simius
+Large Roadside-Skipper	Amblyscirtes exoteria
+Cassus Roadside-Skipper	Amblyscirtes cassus
+Bronze Roadside-Skipper	Amblyscirtes aenus
+Linda's Roadside-Skipper	Amblyscirtes linda
+Oslar's Roadside-Skipper	Amblyscirtes oslari
+Pepper and Salt Skipper	Amblyscirtes hegon
+Elissa Roadside-Skipper	Amblyscirtes elissa
+Texas Roadside-Skipper	Amblyscirtes texanae
+Toltec Roadside-Skipper	Amblyscirtes tolteca
+  'Prenda' Toltec Roadside-Skipper	Amblyscirtes tolteca prenda
+Lace-winged Roadside-Skipper	Amblyscirtes aesculapius
+Carolina Roadside-Skipper	Amblyscirtes carolina
+Reversed Roadside-Skipper	Amblyscirtes reversa
+Slaty Roadside-Skipper	Amblyscirtes nereus
+Nysa Roadside-Skipper	Amblyscirtes nysa
+Dotted Roadside-Skipper	Amblyscirtes eos
+Common Roadside-Skipper	Amblyscirtes vialis
+Celia's Roadside-Skipper	Amblyscirtes celia
+Bell's Roadside-Skipper	Amblyscirtes belli
+Dusky Roadside-Skipper	Amblyscirtes alternata
+Orange-headed Roadside-Skipper	Amblyscirtes phylace
+Orange-edged Roadside-Skipper	Amblyscirtes fimbriata
+Eufala Skipper	Lerodea eufala
+Violet-clouded Skipper	Lerodea arabus
+Olive-clouded Skipper	Lerodea dysaules
+Twin-spot Skipper	Oligoria maculata
+Brazilian Skipper	Calpodes ethlius
+Salt Marsh Skipper	Panoquina panoquin
+Obscure Skipper	Panoquina panoquinoides
+Wandering Skipper	Panoquina errans
+Ocola Skipper	Panoquina ocola
+Hecebolus Skipper	Panoquina hecebola
+Purple-washed Skipper	Panoquina lucas
+Evans' Skipper	Panoquina fusina
+Violet-banded Skipper	Nyctelius nyctelius
+Chestnut-marked Skipper	Thespieus macareus
+Olive Nicon	Niconiades nikko
+Orange Giant-Skipper	Agathymus neumoegeni (includes chisosensis)
+Arizona Giant-Skipper	Agathymus aryxna
+Agathymus aryxna baueri
+Agathymus aryxna gentryi
+Huachuca Giant-Skipper	Agathymus evansi
+Mary's Giant-Skipper	Agathymus mariae
+California Giant-Skipper	Agathymus stephensi
+Coahuila Giant-Skipper	Agathymus remingtoni
+Poling's Giant-Skipper	Agathymus polingi
+Mojave Giant-Skipper	Agathymus alliae
+Yucca Giant-Skipper	Megathymus yuccae (includes coloradensis)
+Cofaqui Giant-Skipper	Megathymus cofaqui (includes harrisi)
+Strecker's Giant-Skipper	Megathymus streckeri
+Ursine Giant-Skipper	Megathymus ursus
+Manfreda Giant-Skipper	Stallingsia maculosa

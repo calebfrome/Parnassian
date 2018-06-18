@@ -1,0 +1,99 @@
+CID,Species,Count,Location,County,State,Date,Start,End,Protocol,Distance
+1,Giant Swallowtail,1,Quintana Neotropical Bird Sanctuary,Brazoria,Texas,3/19/2018,9:15 AM,10:30 AM,Stationary,0
+1,Monarch,1,Quintana Neotropical Bird Sanctuary,Brazoria,Texas,3/19/2018,9:15 AM,10:30 AM,Stationary,0
+2,Strecker's Giant-Skipper,1,CR 193.7,Las Animas,Colorado,4/15/2018,2:10 PM,2:15 PM,Stationary,0
+3,Northern Cloudywing,1,CR 10.8,Las Animas,Colorado,4/15/2018,2:30 PM,2:32 PM,Stationary,0
+4,Checkered White,1,S. Jenkins Ave,Cleveland,Oklahoma,4/16/2018,5:30 PM,6:00 PM,Stationary,0
+4,Orange Sulphur,2,S. Jenkins Ave,Cleveland,Oklahoma,4/16/2018,5:30 PM,6:00 PM,Stationary,0
+4,Eastern Tailed-Blue,2,S. Jenkins Ave,Cleveland,Oklahoma,4/29/2018,6:00 PM,7:10 PM,Traveling,0.75
+4,Phaon Crescent,1,S. Jenkins Ave,Cleveland,Oklahoma,4/29/2018,6:00 PM,7:10 PM,Traveling,0.75
+4,Pearl Crescent,1,S. Jenkins Ave,Cleveland,Oklahoma,4/29/2018,6:00 PM,7:10 PM,Traveling,0.75
+4,Silvery Checkerspot,1,S. Jenkins Ave,Cleveland,Oklahoma,4/29/2018,6:00 PM,7:10 PM,Traveling,0.75
+4,Spring Azure,1,S. Jenkins Ave,Cleveland,Oklahoma,4/29/2018,6:00 PM,7:10 PM,Traveling,0.75
+5,Eastern Tailed-Blue,1,S. Jenkins Ave,Cleveland,Oklahoma,5/2/2018,5:00 PM,6:15 PM,Traveling,0.75
+5,Dainty Sulphur,1,S. Jenkins Ave,Cleveland,Oklahoma,5/2/2018,5:00 PM,6:15 PM,Traveling,0.75
+5,Silvery Checkerspot,1,S. Jenkins Ave,Cleveland,Oklahoma,5/2/2018,5:00 PM,6:15 PM,Traveling,0.75
+5,Silver-spotted Skipper,1,S. Jenkins Ave,Cleveland,Oklahoma,5/2/2018,5:00 PM,6:15 PM,Traveling,0.75
+5,Question Mark,2,S. Jenkins Ave,Cleveland,Oklahoma,5/2/2018,5:00 PM,6:15 PM,Traveling,0.75
+6,Silvery Checkerspot,3,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Silver-spotted Skipper,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Pearl Crescent,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Dainty Sulphur,2,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Eastern Tiger Swallowtail,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Common Roadside-Skipper,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Clouded Skipper,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+6,Gray Hairstreak,1,Riley Park,Cleveland,Oklahoma,5/3/2018,2:00 PM,4:20 PM,Traveling,1.5
+7,Eastern Tailed-Blue,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Horace's Duskywing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Southern Cloudywing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Northern Cloudywing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Confused Cloudywing,3,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Hoary Edge,3,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Silver-spotted Skipper,3,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Common Roadside-Skipper,2,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Dusted Skipper,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Little Wood-Satyr,9,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Bell's Roadside-Skipper,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+7,Goatweed Leafwing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/5/2018,4:30 PM,7:15 PM,Traveling,1.5
+8,Monarch,1,Ten Mile Flats,Cleveland,Oklahoma,5/6/2018,5:45 PM,6:15 PM,Incidental,0
+8,Variegated Fritillary,1,Ten Mile Flats,Cleveland,Oklahoma,5/6/2018,5:45 PM,6:15 PM,Incidental,0
+9,Sleepy Orange,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Zarucco Duskywing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Confused Cloudywing,2,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Northern Cloudywing,2,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Fiery Skipper,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Dusted Skipper,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,American Lady,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Silver-spotted Skipper,2,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Hoary Edge,2,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Little Wood-Satyr,5,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Common Roadside-Skipper,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Goatweed Leafwing,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Gray Hairstreak,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+9,Eastern Tailed-Blue,1,Lake Thunderbird SP - Nature Trail,Cleveland,Oklahoma,5/9/2018,2:00 PM,4:00 PM,Traveling,1
+10,Dainty Sulphur,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Orange Sulphur,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Eastern Comma,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,American Lady,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Viceroy,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Eastern Tailed-Blue,5,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Sachem,4,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Silver-spotted Skipper,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+10,Gray Hairstreak,1,S. Jenkins Ave,Cleveland,Oklahoma,5/15/2018,5:30 PM,7:30 PM,Traveling,0.8
+11,Dainty Sulphur,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Orange Sulphur,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Sleepy Orange,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Variegated Fritillary,2,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Question Mark,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Red Admiral,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Confused Cloudywing,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Northern Cloudywing,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+11,Hayhurst's Scallopwing,1,Wichita Mtns Wildlife Refuge--Charon Gardens Trail,Comanche,Oklahoma,5/16/2018,11:15 AM,1:00 PM,Traveling,1
+12,Black Swallowtail,1,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Orange Sulphur,12,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Clouded Sulphur,1,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Dainty Sulphur,20,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Eastern Tailed-Blue,2,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Hackberry Emperor,3,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Monarch,3,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,American Lady,1,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Goatweed Leafwing,3,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Pearl Crescent,1,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+12,Silver-spotted Skipper,4,Sutton Wilderness Park,Cleveland,Oklahoma,5/17/2018,1:00 PM,2:45 PM,Traveling,1
+13,Black Swallowtail,2,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Pipevine Swallowtail,1,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Spicebush Swallowtail,1,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Checkered White,15,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Orange Sulphur,50,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Dainty Sulphur,50,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Clouded Sulphur,2,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+13,Eastern Tailed-Blue,1,Hagerman NWR,Grayson,Texas,5/18/2018,4:20 PM,6:00 PM,Traveling,5
+14,Black Swallowtail,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Dainty Sulphur,10,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Question Mark,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Little Wood-Satyr,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Pearl Crescent,12,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Phaon Crescent,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Common Buckeye,2,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Red-Spotted Purple,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
+14,Hackberry Emperor,1,Mineola Nature Preserve,Wood,Texas,5/19/2018,7:15 AM,12:30 PM,Traveling,2
