@@ -21,9 +21,9 @@ class Checklist
         QString county;
         QString state;
         QMap<QString, int> species;
-        QTime start;
-        QTime end;
-        Protocol protocol;
+        QString start;
+        QString end;
+        QString protocol;
         double distance;
 
     public:
@@ -31,11 +31,14 @@ class Checklist
         Checklist(QStringList init);
         void addSpecies(QString name, int count);
         int getID();
+        QDate getDate();
+        QString getDateString();
         QMap<QString, int> getSpecies();
         int numSpecies();
         QStringList coreData();
         void printInfo();
         void printSpecies();
+        QString output();
 };
 
 #endif // CHECKLIST_H

@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>824</width>
-    <height>572</height>
+    <width>808</width>
+    <height>598</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -70,7 +70,14 @@
                 </widget>
                </item>
                <item>
-                <widget class="QComboBox" name="submitStates"/>
+                <widget class="QComboBox" name="submitStates">
+                 <property name="minimumSize">
+                  <size>
+                   <width>100</width>
+                   <height>0</height>
+                  </size>
+                 </property>
+                </widget>
                </item>
                <item>
                 <widget class="QLabel" name="label_11">
@@ -93,6 +100,19 @@
              <string>Date / Time</string>
             </property>
             <layout class="QVBoxLayout" name="verticalLayout">
+             <item>
+              <spacer name="horizontalSpacer_8">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
              <item>
               <layout class="QHBoxLayout" name="horizontalLayout_3">
                <item>
@@ -359,6 +379,13 @@
               </widget>
              </item>
              <item>
+              <widget class="QPushButton" name="pb_cancelChecklist">
+               <property name="text">
+                <string>Cancel</string>
+               </property>
+              </widget>
+             </item>
+             <item>
               <spacer name="horizontalSpacer_5">
                <property name="orientation">
                 <enum>Qt::Horizontal</enum>
@@ -376,6 +403,22 @@
           </layout>
          </widget>
         </item>
+        <item>
+         <spacer name="horizontalSpacer_9">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Expanding</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
        </layout>
       </widget>
       <widget class="QWidget" name="tab_2">
@@ -389,8 +432,43 @@
            <string>Database Filtering</string>
           </property>
           <layout class="QGridLayout" name="gridLayout_3">
+           <item row="1" column="0">
+            <widget class="QRadioButton" name="rb_firstSightings">
+             <property name="maximumSize">
+              <size>
+               <width>100</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>First Records</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_5">
+             <property name="minimumSize">
+              <size>
+               <width>0</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>60</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>Species:</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+             </property>
+            </widget>
+           </item>
            <item row="2" column="5">
-            <widget class="QPushButton" name="pb_search">
+            <widget class="QPushButton" name="pb_applyFilter">
              <property name="enabled">
               <bool>true</bool>
              </property>
@@ -402,93 +480,165 @@
              </property>
              <property name="maximumSize">
               <size>
-               <width>200</width>
+               <width>100</width>
                <height>16777215</height>
               </size>
              </property>
              <property name="text">
-              <string>Search</string>
-             </property>
-            </widget>
-           </item>
-           <item row="2" column="1">
-            <widget class="QDateEdit" name="exploreStartDate"/>
-           </item>
-           <item row="2" column="0">
-            <widget class="QComboBox" name="exploreSpecies"/>
-           </item>
-           <item row="1" column="0">
-            <widget class="QLabel" name="label_5">
-             <property name="text">
-              <string>Species</string>
-             </property>
-            </widget>
-           </item>
-           <item row="2" column="2">
-            <widget class="QDateEdit" name="exploreEndDate"/>
-           </item>
-           <item row="1" column="2">
-            <widget class="QLabel" name="label_7">
-             <property name="text">
-              <string>End Date</string>
-             </property>
-            </widget>
-           </item>
-           <item row="1" column="1">
-            <widget class="QLabel" name="label_6">
-             <property name="text">
-              <string>Start Date</string>
-             </property>
-            </widget>
-           </item>
-           <item row="2" column="4">
-            <widget class="QComboBox" name="exploreLocations"/>
-           </item>
-           <item row="1" column="4">
-            <widget class="QLabel" name="label_8">
-             <property name="text">
-              <string>Location(s)</string>
-             </property>
-            </widget>
-           </item>
-           <item row="2" column="3">
-            <widget class="QComboBox" name="exploreStates"/>
-           </item>
-           <item row="1" column="3">
-            <widget class="QLabel" name="label_9">
-             <property name="text">
-              <string>State(s)</string>
-             </property>
-            </widget>
-           </item>
-           <item row="1" column="5">
-            <widget class="QPushButton" name="pb_showAll">
-             <property name="text">
-              <string>Show Entire Database</string>
+              <string>Apply Filter</string>
              </property>
             </widget>
            </item>
            <item row="0" column="0">
             <widget class="QRadioButton" name="rb_allSightings">
+             <property name="maximumSize">
+              <size>
+               <width>100</width>
+               <height>16777215</height>
+              </size>
+             </property>
              <property name="text">
-              <string>All Sightings</string>
+              <string>All Records</string>
              </property>
              <property name="checked">
               <bool>true</bool>
              </property>
             </widget>
            </item>
-           <item row="0" column="1">
-            <widget class="QRadioButton" name="rb_firstSightings">
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_9">
+             <property name="minimumSize">
+              <size>
+               <width>0</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>60</width>
+               <height>16777215</height>
+              </size>
+             </property>
              <property name="text">
-              <string>First Sightings</string>
+              <string>States:</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
              </property>
             </widget>
            </item>
-           <item row="0" column="2">
-            <widget class="QRadioButton" name="rb_lastSightings">
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_8">
+             <property name="minimumSize">
+              <size>
+               <width>0</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>60</width>
+               <height>16777215</height>
+              </size>
+             </property>
              <property name="text">
-              <string>Last Sightings</string>
+              <string>Locations:</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="exploreLocations"/>
+           </item>
+           <item row="0" column="2">
+            <widget class="QComboBox" name="exploreSpecies"/>
+           </item>
+           <item row="1" column="5">
+            <widget class="QPushButton" name="pb_resetFilter">
+             <property name="maximumSize">
+              <size>
+               <width>100</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>Reset Filter</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="0">
+            <widget class="QRadioButton" name="rb_lastSightings">
+             <property name="maximumSize">
+              <size>
+               <width>100</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>Last Records</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="exploreStates"/>
+           </item>
+           <item row="2" column="3">
+            <widget class="QLabel" name="label_7">
+             <property name="maximumSize">
+              <size>
+               <width>90</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>End Date:</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="3">
+            <widget class="QLabel" name="label_6">
+             <property name="maximumSize">
+              <size>
+               <width>90</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>Start Date:</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="4">
+            <widget class="QDateEdit" name="exploreEndDate">
+             <property name="maximumSize">
+              <size>
+               <width>80</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="4">
+            <widget class="QDateEdit" name="exploreStartDate">
+             <property name="maximumSize">
+              <size>
+               <width>80</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
              </property>
             </widget>
            </item>
@@ -509,6 +659,12 @@
  <layoutdefault spacing="6" margin="11"/>
  <tabstops>
   <tabstop>tabWidget</tabstop>
+  <tabstop>rb_existingLoc</tabstop>
+  <tabstop>rb_newLoc</tabstop>
+  <tabstop>existingLocEntry</tabstop>
+  <tabstop>newLocEntry</tabstop>
+  <tabstop>submitStates</tabstop>
+  <tabstop>submitCounties</tabstop>
   <tabstop>calendarWidget</tabstop>
   <tabstop>startTime</tabstop>
   <tabstop>endTime</tabstop>
@@ -517,8 +673,26 @@
   <tabstop>rb_traveling</tabstop>
   <tabstop>numObservers</tabstop>
   <tabstop>distanceTraveled</tabstop>
-  <tabstop>checklistView</tabstop>
+  <tabstop>rb_existingSpecies</tabstop>
+  <tabstop>existingSpeciesEntry</tabstop>
+  <tabstop>speciesCount</tabstop>
+  <tabstop>pb_addSpecies</tabstop>
   <tabstop>pb_submitChecklist</tabstop>
+  <tabstop>pb_cancelChecklist</tabstop>
+  <tabstop>rb_newSpecies</tabstop>
+  <tabstop>newSpeciesEntry</tabstop>
+  <tabstop>checklistView</tabstop>
+  <tabstop>rb_allSightings</tabstop>
+  <tabstop>rb_firstSightings</tabstop>
+  <tabstop>rb_lastSightings</tabstop>
+  <tabstop>exploreSpecies</tabstop>
+  <tabstop>exploreStates</tabstop>
+  <tabstop>exploreLocations</tabstop>
+  <tabstop>exploreStartDate</tabstop>
+  <tabstop>exploreEndDate</tabstop>
+  <tabstop>pb_resetFilter</tabstop>
+  <tabstop>pb_applyFilter</tabstop>
+  <tabstop>exploreResults</tabstop>
  </tabstops>
  <resources/>
  <connections/>

@@ -1,6 +1,7 @@
 #include "checklist.h"
 
 #include <iostream>
+#include <QDebug>
 
 Checklist::Checklist()
 {
@@ -17,6 +18,16 @@ Checklist::Checklist(QStringList init)
     state = init.at(5);
     QStringList dateElems = init.at(6).split("/");
     date = QDate(dateElems.at(2).toInt(), dateElems.at(0).toInt(), dateElems.at(1).toInt());
+    start = init.at(7);
+    //int h = qstart.left(qstart.indexOf(':')) + (qstart.right(2) == "PM" ? 12 : 0);
+    //int m = qstart.mid(qstart.indexOf(':'), qstart.indexOf(' ') - qstart.indexOf(':'));
+    //start = QTime(h, m, 0);
+    end = init.at(8);
+    //h = qend.left(qend.indexOf(':')) + (qend.right(2) == "PM" ? 12 : 0);
+    //m = qend.mid(qend.indexOf(':'), qend.indexOf(' ') - qend.indexOf(':'));
+    //end = QTime(h, m, 0);
+    protocol = init.at(9);
+    distance = init.at(10).toDouble();
 }
 
 void Checklist::addSpecies(QString name, int count)
@@ -28,6 +39,16 @@ void Checklist::addSpecies(QString name, int count)
 int Checklist::getID()
 {
     return id;
+}
+
+QDate Checklist::getDate()
+{
+    return date;
+}
+
+QString Checklist::getDateString()
+{
+    return date.toString("dd MMMM yyyy");
 }
 
 QMap<QString, int> Checklist::getSpecies()
@@ -47,6 +68,7 @@ QStringList Checklist::coreData()
     coreData.append(county);
     coreData.append(state);
     coreData.append(date.toString("dd MMMM yyyy"));
+    coreData.append(date.toString("yyyy-MM-dd"));
     return coreData;
 }
 
@@ -63,4 +85,17 @@ void Checklist::printSpecies()
         i.next();
         std::cout << i.key().toStdString() << "\t" << i.value() << std::endl;
     }
+}
+
+QString Checklist::output()
+{
+    QString output = "";
+    QMapIterator<QString, int> i(species);
+    while (i.hasNext()) {
+        i.next();
+        output.append(QString::number(id) + ',' + i.key() + ',' + QString::number(i.value()) + ',');
+        output.append(location + ',' + county + ',' + state + ',' + date.toString("MM/dd/yyyy") + ',');
+        output.append(start + ',' + end + ',' + protocol + ',' + QString::number(distance) + '\n');
+    }
+    return output;
 }
